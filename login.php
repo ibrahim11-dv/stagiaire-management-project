@@ -122,6 +122,12 @@ mysqli_close($conDb);
                         <a class="nav-link" href="index.php"><i class="bi bi-house-door me-1"></i> Accueil</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="index.php#services"><i class="bi bi-briefcase me-1"></i> Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.php#process"><i class="bi bi-list-check me-1"></i> Procédure</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link active" href="login.php"><i class="bi bi-box-arrow-in-right me-1"></i> Connexion</a>
                     </li>
                 </ul>
